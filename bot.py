@@ -22,7 +22,7 @@ except ImportError:
 # 1. إعدادات البوت والبيانات الأساسية
 # ==========================================
 BOT_NAME = "بوت احمد السيد للتداول الشامل (ahmed_forex) 🏆"
-TELEGRAM_BOT_TOKEN = "8739424060:AAF5gkhpBSD2xTuP7r9WRDUbEhxPQBupZcw"
+TOKEN = "8739424060:AAF5gkhpBSD2xTuP7r9WRDUbEhxPQBupZcw"
 OWNER_ID = 5796443586
 DEVELOPER_TELEGRAM = "V8V8VN"
 
